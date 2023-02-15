@@ -20,7 +20,7 @@ Download the zip file provided,decompress it and you can view the code behind th
 
 ## Page Visibility
 You can either run the index.html page from the above downloaded zip file to get a glimpse of the website or you can directly click on this link:
-<>
+"https://iic-tmsl-websmith.vercel.app/"
 (Proportions and images work only on a pc or laptop)
  
 
