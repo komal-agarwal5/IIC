@@ -1,27 +1,25 @@
-# IIC TMSL
+# IIC - TMSL Website
 
-## Topic
-An effort to create a replica of the IIC TMSL Website.
+Created by a team named WEBSMITH under the supervision of Komal Aggarwal.
 
-## Purpose
-This has been created to compete in the selection drive of the Tech Wing of IIC TMSL known as Coding Legion
+## Viewing the website -
 
-## Languages used
-HTML<br>
-CSS<br>
-JS
+U can download the project in .zip and extract and open the index.html or simply u can go to <a href="https://iic-tmsl-websmith.vercel.app/">iic-tmsl.com</a> to spend less time.
 
-## Platforms used
-VS Code<br>
-Vercel
+## For a contest -
 
-## Code Accessibility
-Download the zip file provided,decompress it and you can view the code behind this website.
+![WhatsApp Image 2023-02-11 at 21 42 32](https://user-images.githubusercontent.com/111780029/218924024-6c676b11-2fc6-4da1-809c-baa9163394ee.jpg)
 
-## Page Visibility
-You can either run the index.html page from the above downloaded zip file to get a glimpse of the website or you can directly click on this link:
-"https://iic-tmsl-websmith.vercel.app/"
-(Proportions and images work only on a pc or laptop)
- 
+## Worked On - 
 
+- Windows 11
 
+- VS Code
+
+- HTML, CSS, Javascript framework
+
+- Deployed via Vercel
+
+## Terms and condition
+
+The site is yet not responsive. To be opened on pc or laptop
