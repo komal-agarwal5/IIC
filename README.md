@@ -1,10 +1,10 @@
 # IIC - TMSL Website
 
-Created by a team named WEBSMITH under the supervision of Komal Aggarwal.
+Created by a team named WEBSMITH under the supervision of Komal Agarwal.
 
 ## Viewing the website -
 
-U can download the project in .zip and extract and open the index.html or simply u can go to <a href="https://iic-tmsl-websmith.vercel.app/">iic-tmsl.com</a> to spend less time.
+You can download the project in .zip and extract and open the index.html or simply u can go to <a href="https://iic-tmsl-websmith.vercel.app/">iic-tmsl.com</a> to spend less time.
 
 ## For a contest -
 
